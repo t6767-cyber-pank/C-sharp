@@ -1,0 +1,1 @@
+Data Source=t6767;Initial Catalog=medblok;Integrated Security=True;
